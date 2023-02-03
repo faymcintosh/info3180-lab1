@@ -5,6 +5,23 @@ body {
 }
 
 .container {
-  max-width: 960px;
-  margin: 0 auto;
+  max-width:100%;
+  margin:  auto;
+}
+
+h1 {
+  font-family: 'Arial';
+  font-size: 2px;
+  color: aqua;
+}
+
+img {
+  
+  height: auto;
+  max-width: 100%;
+  border-radius: 8px;
+  padding: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
